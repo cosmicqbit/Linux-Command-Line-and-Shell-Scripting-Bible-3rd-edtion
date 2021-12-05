@@ -1,5 +1,6 @@
 # Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion
-Here is the BOOK📓 that helped me to learn, Understand Linux and Shell Scripting🐧. 
+Here is the BOOK📓 that helped me to learn, Understand Linux and Shell Scripting🐧.
+
 📓 title: Linux Command Line And Shell Scripting Bible Third Edition
 I highly recommend it - 5 stars(⭐⭐⭐⭐⭐)!
 
